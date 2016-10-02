@@ -39,6 +39,9 @@ curl -L https://raw.github.com/rauchg/wifi-password/master/wifi-password.sh -o ~
 If you don't have `~/bin` in your `$PATH`, replace it with `/usr/local/bin` or
 similar.
 
+OR YOU COULD:
+Run it by executing "wifi-password.sh". To run, open Terminal.app and type (without the quotes!): "./wifi-password.sh [SSID]". To run like this, you must be in the folder where you downloaded it.
+
 **2. Use it:**
 
 To get the password for the WiFi you're currently logged onto:
